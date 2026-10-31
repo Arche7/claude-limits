@@ -1,0 +1,1 @@
+{ "name": "limits-band", "version": "0.1.0", "description": "Полоска и панель лимитов Claude (контекст, 5 часов, неделя) с персонажем Токи и звуком готовности ответа", "types": "./types/index.d.ts", "license": "MIT" }

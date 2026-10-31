@@ -1,0 +1,6 @@
+{
+  "name": "claude-limits",
+  "description": "Мод limits-band: лимиты Claude над полем ввода, панель с темами и звук готовности",
+  "owner": { "name": "claude-limits" },
+  "plugins": [{ "name": "limits-band", "source": "./" }]
+}
