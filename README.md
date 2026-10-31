@@ -7,7 +7,7 @@
 В строке ввода сессии Claude Code:
 
 ```
-/plugin install limits-band --marketplace OWNER/claude-limits
+/plugin install limits-band --marketplace Arche7/claude-limits
 ```
 
 Затем ответьте `y`, чтобы добавить маркетплейс, и выберите, где установить.
@@ -15,5 +15,5 @@
 Из терминала:
 
 ```
-claude plugin install limits-band --marketplace OWNER/claude-limits
+claude plugin install limits-band --marketplace Arche7/claude-limits
 ```
